@@ -3,7 +3,7 @@
 import os
 import pyperclip()
 
-os.chdir(/Users/barry.plemmons/Desktop)
-makedir('My new little folder')
+os.chdir('/Users/barry.plemmons/Desktop')
+os.mkdir('My new little folder')
 print('congrats, you have a new folder')
 
