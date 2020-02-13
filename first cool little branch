@@ -1,0 +1,9 @@
+#oh boy, here we go, my first new little branch on GitHub.
+
+import os
+import pyperclip()
+
+os.chdir(/Users/barry.plemmons/Desktop)
+makedir('My new little folder')
+print('congrats, you have a new folder')
+
